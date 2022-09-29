@@ -17,9 +17,9 @@ function Skills() {
     <div className="skills component__space" id="Skills">
       <div className="heading">
         <h1 className="heading">Skills</h1>
-        <p className="heading p__color">
+        {/* <p className="heading p__color">
           These are the technologies I've worked with
-        </p>
+        </p> */}
       </div>
 
       <div className="container">
